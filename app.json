@@ -8,7 +8,7 @@
   ],
   "success_url": "https://paypal.me/AbhishekKumar1N47",
   "website": "https://paypal.me/AbhishekKumar1N47",
-  "repository": "https://github.com/PayForBotZ/Shazam-Telegram-Bot",
+  "repository": "https://github.com/EpicBotSl/Shazam-Telegram-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -16,15 +16,15 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5594463351:AAEtK2Ec2Qs50Nr3BZ9Ef94xHzmSxiqcuMU"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "16884543"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3aedef1b4dad28b9c9f00bb888b4d972"
     }
   },
   "addons": [
